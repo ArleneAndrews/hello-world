@@ -1,0 +1,2 @@
+choco install avastfreeantivirus -y
+chococ install calibre python firefox vlc slack discord gt 7zip inkscape adobereader nodejs openoffice dropbox jing utorrent spotify visualstudiocode pycharm-community tomighty intellij-community virtualbox steam -y
